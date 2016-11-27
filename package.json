@@ -2,7 +2,7 @@
   "name": "seajs-homepage-demo",
   "version": "0.0.1",
   "description": "Electrode app demo",
-  "homepage": "github.com/bschwartz757/seajs_homepage_demo",
+  "homepage": "github.com/bschwartz757/seajsws",
   "author": {
     "name": "Blake Schwartz",
     "email": "blakehschwartz@gmail.com",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "bschwartz757/seajs_homepage_demo"
+    "url": "bschwartz757/seajsws"
   },
   "license": "MIT",
   "engines": {
